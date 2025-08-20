@@ -1,5 +1,5 @@
 #  Scientific Literature Analysis Project
-#### Summer Research Project | May 2024 - July 2024
+#### Summer Research Project | May 2025 - July 2025
 
 This project aimed to streamline research analysis by developing a robust system for:
 
